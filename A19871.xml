@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One of the sermons preached at Westminster the fifth of Aprill, (being the day of the publike fast;) before the Right Honourable Lords of the High Court of Parliament, and set forth by their appointment. By the Bishop of Sarum.</title>
+            <author>Davenant, John, ca. 1572-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19871</idno>
+            <idno type="STC">STC 6299</idno>
+            <idno type="STC">ESTC S117129</idno>
+            <idno type="EEBO-CITATION">99852344</idno>
+            <idno type="PROQUEST">99852344</idno>
+            <idno type="VID">17660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1134:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One of the sermons preached at Westminster the fifth of Aprill, (being the day of the publike fast;) before the Right Honourable Lords of the High Court of Parliament, and set forth by their appointment. By the Bishop of Sarum.</title>
+                  <author>Davenant, John, ca. 1572-1641.</author>
+               </titleStmt>
+               <extent>[2], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by George Miller] for Richard Badger, and are to be sold by Iohn Stempe at his shop at the east end of S. Dunstans Church-yard in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1628.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On Jeremiah III, 22. The other sermon was preached by Joseph Hall (STC 12692).</note>
+                  <note>Printer's name from STC.</note>
+                  <note>A variant of the edition without bookseller's name in the imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17660:1" rendition="simple:additions"/>
+            <pb facs="tcp:17660:1" rendition="simple:additions"/>
+            <p>ONE OF THE SERMONS PREACHED <hi>At Westminster:</hi> The fifth of APRILL, (being the day of the Publike Faſt;)</p>
+            <p>
+               <hi>Before the Right Honourable Lords of</hi> the High Court of PARLIAMENT, and ſet forth by their appointment.</p>
+            <p>
+               <hi>By the Biſhop of</hi> SARVM.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Badger,</hi> and are to be ſold by <hi>Iohn Stempe</hi> at his ſhop at the Eaſt end of S. <hi>Dunſtans</hi> Church-yard in Fleet-ſtreet. 1628.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:17660:2"/>
+            <pb n="1" facs="tcp:17660:2"/>
+            <head>IEREMIE 3.22. the latter part of the Verſe.</head>
+            <head type="sub">Behold, wee come vnto thee, for thou art the Lord, our God.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome wonderfull ſight out of all queſtion was heere to be ſeene, or elſe men ne<g ref="char:EOLhyphen"/>uer durſt haue beene ſo bold, as to haue called to the great God of heauen to behold it. Some pleaſing ſpectacle out of all doubt was to be exhibited, or elſe the great God of heauen would neuer haue vouchſa<g ref="char:EOLhyphen"/>fed the caſting downe of his gratious eye vp<g ref="char:EOLhyphen"/>on it. It was ſo indeed. A wonder aboue all other wonders: the ſtony and rebellious hearts of men ſuddenly turned, into ſoft and obedient hearts. A ioyfull ſpectacle vnto God aboue all other ſpectacles; runnagate ſer<g ref="char:EOLhyphen"/>uants returning vnto the ſeruice of their Soue<g ref="char:EOLhyphen"/>reigne Lord; rebellious children repenting,
+<pb n="2" facs="tcp:17660:3"/>and running as it were into the boſome of their gratious God, and louing Father. If wee will beleeue him who is <hi>Truth</hi> it ſelfe, this is the principall, if not the onely ſight vpon earth, which giues contentment, and brings ioy vnto Heauen,
+<note place="margin">
+                  <hi>Luke</hi> 15.7.</note> vnto the Saints, vnto the Angels, yea vnto the bleſſed Trinity it ſelfe. I haue choſen this, as a Text fitting the preſent occaſion, becauſe we are now doing the ve<g ref="char:EOLhyphen"/>ry ſame thing, which the Iſraelites then did: For tell me, I pray, what doe we intend by this ſolemne generall Aſſembly, or what doe we pretend by this publique Faſting, Praying, and humbling our ſelues vnder the hand of Almighty God, but this ſerious proteſtation; <hi>Behold, we come vnto thee, for thou art the Lord our God?</hi> Bold, prophane, and wretched men we are if wee deride our Maker, and call vnto him, that he would out of heauen be<g ref="char:EOLhyphen"/>hold a Sight heere vpon earth when in truth there is no ſuch Sight to bee ſeene. Dutifull, holy, and happy men we are, if God looking downe from heauen, behold in vs, that which we pretend, and he expects. Now that we may the better vnderſtand what this is, let vs come to a particular conſideration of the Text;
+<pb n="3" facs="tcp:17660:3"/>which is nothing elſe, but a ſhort and direct anſwer of Gods people, vnto a Propoſition which God had made vnto them in the words immediately going before. Gods propoſiti<g ref="char:EOLhyphen"/>on was this: <hi>(O returne yee back ſliding children, and I will heale your rebellions)</hi> The Iſraelites anſwer hereunto, is very punctuall and direct. <hi>(Behold, we come vnto thee for thou art the Lord, our God.)</hi> In which anſwer, we may obſerue theſe two generall parts:</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> A proteſtation of their ſincere obedi<g ref="char:EOLhyphen"/>ence, <hi>(Behold, wee come vnto thee)</hi>
+            </p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> A declaration of the motiue inducing them thereunto, <hi>For thou art the Lord, our God.</hi>
+            </p>
+            <p>This proteſtation conſiſts not of many words, and yet it containes many matters of great importance; which I will ſpeake of in order, as the words ſhall offer them vnto me.</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt is the Inward Obedience of their Hearts, implied in the word, <hi>Ecce, Behold:</hi> For howſoeuer the Heart bee not expreſſely named, yet this <hi>Ecce,</hi> calls as it were vpon God, to take notice of the ſecret reſolution of their hearts, and to behold their obedience, in bowing and bending of them, vnto his moſt iuſt, and holy commands. In all accep<g ref="char:EOLhyphen"/>table
+<pb n="4" facs="tcp:17660:4"/>obedience vnto God, the Heart muſt be the ringleader: if that be wanting, the ſee<g ref="char:EOLhyphen"/>ming good actions of a Heartleſſe Chriſtian, are but like the walking or ſtirring of a liueles body,
+<note place="margin">Seneca.</note> which affrights many, but pleaſeth no beholder. <hi>Omnia honeſta opera voluntas inchoat.</hi> It is the Heart or Will, which giues the begin<g ref="char:EOLhyphen"/>ning vnto euery good action: and this is it which in the firſt place the Iſraelites preſented vnto God: And ſurely there was good reaſon, and a iuſt cauſe of their ſo dooing</p>
+            <p>Firſt, becauſe their vnfaithfull and ſtub<g ref="char:EOLhyphen"/>borne heart was it, that had lead them out in<g ref="char:EOLhyphen"/>to open rebellion againſt God; and therefore it was neceſſarily required, that a loyall and obedient heart, ſhould alſo be their Leader, in this their Submiſſion, and comming in vnto Almighty God. Againe, whenſoeuer God calls vnto a Sinner to returne, his meaning is, that his heart ſhould firſt anſwer vnto the call. <hi>My Sonne giue me thy heart;</hi> and <hi>Hebrewes</hi> the 10.22. <hi>Let vs draw neere vnto God with a true heart.</hi> As good ſtay behinde; as come when God calls, and leaue our hearts behinde. Laſt of all, it is the Heart vpon which Gods eyes are principally fixed, whenſoeuer we preſent
+<pb n="5" facs="tcp:17660:4"/>our humble ſeruice vnto him: and it is one of his Royall Prerogatiues, to be the Diſcerner of Hearts. Wee may therefore well ſuppoſe, that theſe Iſraelites durſt neuer haue called God to Behold their comming, had not their hearts beene their leaders. For they could not be ignorant of that peremptory concluſion. (<hi>If I regard wickedneſſe in my heart,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 66.18.</note> 
+               <hi>the Lord will not heare me.</hi> Now if any man aske me whence came this admirable change, that men of bra<g ref="char:EOLhyphen"/>ſen foreheads, and iron hearts, are ſo ſudden<g ref="char:EOLhyphen"/>ly become men of humble, ſoft, and religi<g ref="char:EOLhyphen"/>ous hearts, all that I can anſwer is this: The ſame God that had long called vnto them for their hearts, had now at length giuen them new hearts, and a new ſpirit,
+<note place="margin">
+                  <hi>Chap.</hi> 36. <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 26. <hi>Proſper.</hi>
+               </note> and had taken the ſtony heart out of their body, as the Pro<g ref="char:EOLhyphen"/>phet <hi>Ezekiel</hi> ſpeakes. <hi>Bona voluntas eſt homi<g ref="char:EOLhyphen"/>nis propria, ſed Deo inſpirante concepta.</hi> A good will, or a good heart, is a mans owne when he hath it: but it is the diuine inſpiration from whence hee hath it. Let vs now for a while leaue the conſideration of theſe Iſraelites, and their new hearts, and come to conſider our owne. We all make the ſame proteſtation this day, of our obedient and penitent hearts
+<pb n="6" facs="tcp:17660:5"/>which they did. Wee all in effect intreate GOD to looke downe from heauen, and to Behold this vnfeined and ſincere reſo<g ref="char:EOLhyphen"/>lution of our Hearts. Take heede of drawing neere vnto GOD with your lippes, and remoouing your hearts farre from him. Be ſure of that conſtant reſolution which was in holy <hi>Dauid,</hi> when he made this profeſ<g ref="char:EOLhyphen"/>ſion:
+<note place="margin">
+                  <hi>Pſal.</hi> 40.</note> 
+               <hi>I deſire to doe thy good will (O my God) yea thy law is within my heart. Pars prima bonitatis eſt velle fieri bonum.</hi> The firſt part of goodneſſe, is to haue the Will of beeing good. I cannot pierce into your hearts, and ſee your ſecret intentions and purpoſes: God can, and doth, and your owne hearts alſo can and doe take notice of your inward reſolutions. Hath any man therefore had a filthy, luſtfull, and adulterous heart; aske it whether it bee now reſolued to keepe it ſelfe a pure, chaſte, and vndefiled heart. Hath any man had a coue<g ref="char:EOLhyphen"/>tous or an ambitious proud heart, let him ſearch into it, and ſee whether it now be reſolued, to renounce the world, with all the vaine pompe and pride thereof. Hath any man had an vncharitable, contentious, and malicious heart; let him examine himſelfe,
+<pb n="7" facs="tcp:17660:5"/>whether hee bee fully bent to purge out this old and ſowre leauen of maliciouſneſſe or no.</p>
+            <p>If our outward humiliation be ſeuer'd from this inward reſolution,
+<note place="margin">
+                  <hi>Aduerſus Marc.</hi> 4.</note> What is it but (as <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> ſpeakes) <hi>Impietatis ſecreta ſuperficialibus officijs obumbrare.</hi> To hide the depths of wic<g ref="char:EOLhyphen"/>kedneſſe vnder a Superficies of holines. I hope there is none ſuch here; but if there be, let them know, that a diſſembling Nation is ſti<g ref="char:EOLhyphen"/>led, <hi>The People of Gods wrath;</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 10. <hi>Verſe</hi> 6.</note> becauſe hypo<g ref="char:EOLhyphen"/>crites are (to vſe the Philoſophers phraſe) <hi>in vltima &amp; proxima diſpoſitione,</hi> in the laſt, nee<g ref="char:EOLhyphen"/>reſt, and fitteſt diſpoſition, to take fire at the deuouring flame of Gods wrath. In this day therefore of our ſolemne Faſt, and of our pro<g ref="char:EOLhyphen"/>feſſed new obedience, it much imports vs to be ſure that wee are ſound, and not rotten at the heart; leaſt when wee ſhall come hereafter to pleade with God, as thoſe hypo<g ref="char:EOLhyphen"/>criticall Iewes did; <hi>why haue we faſted,</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 58.</note> 
+               <hi>and thou ſeeſt it not. Why haue wee puniſhed our ſelues, and thou regardeſt it not?</hi> VVee receiue the ſame anſwer. <hi>Behold, in the day of your faſt, yee ſeeke your owne will; Behold, you faſt to ſtrife and debate.</hi> If there be in our hearts a reſolution
+<pb n="8" facs="tcp:17660:6"/>onely of abſtaining from meate and drinke for certaine howres, but no purpoſe of wai<g ref="char:EOLhyphen"/>ning our ſelues from our owne wills, all out<g ref="char:EOLhyphen"/>ward ſhews of intended reformation, will but make to our deeper condemnation. <hi>Qui lau<g ref="char:EOLhyphen"/>datur ab hominibus vituperante Deo, non ſaluabi<g ref="char:EOLhyphen"/>tur ab hominibus damnante Deo.</hi> He who is prai<g ref="char:EOLhyphen"/>ſed of men, whilſt God accuſeth him, cannot be ſaued by men, when God will condemne him. But I am charitably perſwaded, that euery one of vs, who this day preſent our ſelues vn<g ref="char:EOLhyphen"/>to the view of God, hath brought with him a new heart, fully reſolued vpon a new and holy life.</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> There is a ſecond point now to bee conſidered in this Proteſtation of their obe<g ref="char:EOLhyphen"/>dience; and that is, the outward performance anſwerable to the inward reſolution and pur<g ref="char:EOLhyphen"/>poſe of their hearts: wherein I will firſt ſpeake briefly of the Act it ſelfe, and then of the ſeue<g ref="char:EOLhyphen"/>rall circumſtances conſiderable in the ſame Act. This Act God expreſſeth by the name of Returning; <hi>(Oreturne yee diſobedient chil<g ref="char:EOLhyphen"/>dren.)</hi> The Iſraelites terme it Comming. <hi>(Be<g ref="char:EOLhyphen"/>hold, we come vnto thee.)</hi> Both words note vn<g ref="char:EOLhyphen"/>to vs one and the very ſame thing; to wit, the
+<pb n="9" facs="tcp:17660:6"/>forſaking of our wicked and ſinnefull waies and the walking in the vndefiled way of Gods Commandements. For as ſinne, is <hi>Auerſio à Creatore, &amp; conuerſio ad creaturam.</hi> An inordinate turning from God vnto the crea<g ref="char:EOLhyphen"/>ture; ſo on the contrary, Godlineſſe or righ<g ref="char:EOLhyphen"/>teouſneſſe, is a turning from the vaine crea<g ref="char:EOLhyphen"/>ture, and a Returning or comming vnto God our Creator.
+<note place="margin">Auguſt.</note> 
+               <hi>Ad Deum non locis mouemur ſed moribus.</hi> We come vnto God, not by ſhifting of places, but by changing of our manners and practiſes. Comming vnto the Church (as now we doe) is but comming vnto the materiall houſe of God: ceaſing to doe euill, practiſing to doe well, that is our true retur<g ref="char:EOLhyphen"/>ning vnto God.
+<note place="margin">
+                  <hi>Eſ.</hi> 55.7.</note> 
+               <hi>Let the wicked forſake his waies, and the vnrighteous his owne imaginati<g ref="char:EOLhyphen"/>ons, and returne vnto the Lord.</hi> If there be not this outward practiſe, anſwerable vnto the pretended inward obedience of our hearts; out of queſtion the former pretenſe was but falſe and counterfeit. <hi>Nemo veraciter dicit,</hi>
+               <note place="margin">Pariſicenſis.</note> 
+               <hi>vo<g ref="char:EOLhyphen"/>lo, qui nonfacit illud quod poteſt.</hi> No man true<g ref="char:EOLhyphen"/>ly ſaies: I am in Will and Heart reſolued, vn<g ref="char:EOLhyphen"/>leſſe according to his ability, he indeauour to performe his reſolution.</p>
+            <pb n="10" facs="tcp:17660:7"/>
+            <p> But euery man will alleage for himſelfe, that he is none of thoſe that come vnto God in pretended reſolutions of obedience; hee comes in deed, that is, in the practiſe of a Godly life. Let vs examine a little the truth of this allegation. There is but one way of com<g ref="char:EOLhyphen"/>ming vnto God; there are many crooked by<g ref="char:EOLhyphen"/>paths (yet broad and beaten waies too) which carry vs quite away from him. He who walkes in the way, which Gods Word hath chalked out vnto him, he and none but he, is comming vnto God; and how few bee there that care either to finde or follow this way; They which follow the guidance of their own corrupt and crafty reaſon, may come vnto wealth or worldy preferment, but certainely by this way they can neuer come vnto God: and how many bee there that wander in this way all their life long. But the Apoſtle hath giuen them their doome.
+<note place="margin">1 <hi>Cor.</hi> 2.14.</note> 
+               <hi>The naturall man perceiues not the things which are of God, neither can he, for they are fooliſhneſſe vnto him.</hi> They which follow the bent of their owne ſenſuall appetite, may wallow in bodily and filthy pleaſures; but by this way they can neuer come to God, nor to thoſe pleaſures <hi>which
+<pb n="11" facs="tcp:17660:7"/>areat his right hand for euermore.</hi> Laſt of al, they which walke in the way wherein the Multi<g ref="char:EOLhyphen"/>tude walkes, and follow onely the faſhions of the preſent time, they may at length arriue at that place, where they ſhall meete with moſt company, but neuer there where they ſhall meete with God, and the beſt and moſt bleſſed company.
+<note place="margin">Seneca.</note> 
+               <hi>Tritiſsima quaeque via maxime deci<g ref="char:EOLhyphen"/>pit.</hi> The moſt beaten and broad way, leads vs fartheſt out of the right way. What therefore remaines, but onely this? If thou wouldeſt haue aſſurance, that thou art in the number of thoſe that truely come vnto God, ſee whether thou takeſt his word for <hi>a lanterne vnto thy feete, and a light vnto thy paths;</hi> for this alone is the ſtraight way chalked out by God, and bringing men vnto GOD. And let this ſuffice for the Act of our comming vnto God; the Circumſtances of this act muſt now bee handled, which are in number three.</p>
+            <p>The firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> is the Generality of the perſons returning or comming vnto God, implied in the word, <hi>Wee;</hi> that is, All wee, the whole Congregation, <hi>Behold, wee come.</hi> Had not their comming beene a ioynt and generall comming, they could not thereby haue ob<g ref="char:EOLhyphen"/>tained
+<pb n="12" facs="tcp:17660:8"/>that which they ſought for. What was that? The remoouall of ſuch heauie iudge<g ref="char:EOLhyphen"/>ments as lay vpon them, and the auerting of more heauie, which by the Prophets were threatned againſt them. A particular man by returning vnto God, may turne away a par<g ref="char:EOLhyphen"/>ticular iudgement hanging ouer his owne head; but where the rebellion hath beene generall, and where the iudgement prepared is ſome generall calamity, there it muſt bee a generall conuerſion and comming vnto God, that muſt turne away his wrath.
+<note place="margin">
+                  <hi>Ezek.</hi> 14.14.</note> 
+               <hi>Noah, Dani<g ref="char:EOLhyphen"/>el,</hi> or <hi>Iob,</hi> may deliuer their owne ſoules by their particular repentance, but they ſhall ſaue neither ſonnes, nor daughters, they one<g ref="char:EOLhyphen"/>ly ſhall be deliuered, but the land ſhall be wa<g ref="char:EOLhyphen"/>ſted. If the Sea roare and ſwell, threatning to breake downe the banks, and ouerflow ſome large plaine; it is not the care of one or two in keeping or repairing their banks, that can preuent the inundation: euen ſo when God, (that I may vſe the phraſe of the Pro<g ref="char:EOLhyphen"/>phet <hi>Ieremy) ſhall roare from aboue against a nation, and be ready to ſwallow them vp:</hi> If there be not a generall indeauour in ſtopping him from making a breach, the indeuours of ſome
+<pb n="13" facs="tcp:17660:8"/>few cannot preuent the deluge of his wrath. Would we therefore (the people of this land) preuent a generall calamity, which out of doubt hangs ouer our heads for our generall impiety; Iet vs troope together, and one call vpon another;
+<note place="margin">
+                  <hi>Hoſ.</hi> 6.</note> 
+               <hi>Come let vs returne vnto the Lord, for he hath ſpoiled vs and he will heale vs, he hath wounded vs, and hee will binde vs vp a<g ref="char:EOLhyphen"/>gaine. Let the children of Iſrael,</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 50. <hi>Verſe</hi> 4.</note> 
+               <hi>and the children of Iuda Come Together, and weeping ſeeke the Lord their God:</hi> In briefe, let vs all ioyning toge<g ref="char:EOLhyphen"/>ther, hands, hearts, and voices, ſay truely and vnfeinedly vnto God, <hi>Behold, wee come vnto thee;</hi> and then there is no doubt to be made, but he will turne away his fierce wrath from vs. But alaſſe, what hope or likelihood is there of ſuch a ioynt and generall returning vnto God? Euery man indeed ſeemes wil<g ref="char:EOLhyphen"/>ling that others ſhould turne from their ſins and come vnto God, but the moſt are deſi<g ref="char:EOLhyphen"/>rous to ſtay behinde themſelues, or to be the very laſt in this returne. The Laity are much troubled, and heartily grieued at the Scanda<g ref="char:EOLhyphen"/>lous ſins of the Clergy, and by all meanes they would haue vs forced to come vnto God ioyntly and generally, without leauing any
+<pb n="14" facs="tcp:17660:9"/>one ſtragler of our company behinde vs. But when the matter concernes themſelues, I ſee no ſuch generall diſpleaſure againſt their owne ſins, no ſuch care or indeauour to re<g ref="char:EOLhyphen"/>turne ioyntly and generally vnto God in their owne perſons. And I am afraid wee of the Clergy are quit with them in the ſame kinde: inueighing mightily againſt their ſins, and crying aloud vnto them, <hi>Returne,</hi> and yet in the meane time going on in our own. I might ſay the ſame of the great and mighty men of the land, compared with the poorer and mea<g ref="char:EOLhyphen"/>ner ſort of people. Both haue their proper and knowne faults; each of them are won<g ref="char:EOLhyphen"/>drous earneſt that the other might be reclai<g ref="char:EOLhyphen"/>med, and neither ſo forward as they ſhould be, in reforming themſelues. I ſee but one way to make vs come ioyntly and Generally vnto God; and that is, if we can fall amongſt our ſelues at an vnwonted and vnheard of, but moſt allowable and happy ſtrife, who ſhall be the firſt in comming vnto God. I am ſure there is euery where ſtrife more then e<g ref="char:EOLhyphen"/>nough for worldly precedence: I would I were able to kindle in your hearts a ſpirituall ambition about this Holy Precedence, in
+<pb n="15" facs="tcp:17660:9"/>comming vnto God. Let vs of the Clergie begin the contention; and as we haue a prero<g ref="char:EOLhyphen"/>gatiue of more neere and ſpeciall attendance vpon God in regard of our ſacred function: ſo let vs ſtriue to come firſt and neereſt vnto him in holines of conuerſation. If we prooue dull and ſlacke herein, you the Nobles, the Magiſtrates, the great men of the kingdome, ſtep forth, and claime your priuiledge. The high Officers of the Kingdome in Ciuill mat<g ref="char:EOLhyphen"/>ters challenge a right of precedence before other men: but this is not all; take notice I pray, of your full right. You are ſtiled and in<g ref="char:EOLhyphen"/>rolled, <hi>Officers of Gods Kingdome,</hi>
+               <note place="margin">
+                  <hi>Wiſd.</hi> 6. <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 4.</note> and there<g ref="char:EOLhyphen"/>fore you muſt hold your precedence, as well in the Seruice of God as of the King. If nei<g ref="char:EOLhyphen"/>ther Prieſts nor Nobles, Miniſters nor Magi<g ref="char:EOLhyphen"/>ſtrates, will put in for this right of precedence: you of the commonalty, you of the loweſt and meaneſt of the commonalty, ſtriue to get the precedence from vs both. It is neither pride nor euill manners, in this caſe to thruſt before your betters. Nay, in ſo doing, you make your ſelues more holy then your Prieſts more noble then your Princes. It was the ſay<g ref="char:EOLhyphen"/>ing of a Philoſopher; <hi>Philoſophia ſtemma non
+<pb n="16" facs="tcp:17660:10"/>inſpicit.</hi> The Diuine may ſay as truly; <hi>Theolo<g ref="char:EOLhyphen"/>gia ſtemma non inſpicit;</hi> Diuinity lookes not vp<g ref="char:EOLhyphen"/>on pettigrees. Hee is nobly borne, who is borne againe of the Spirit; he is honourable, who makes it his honor, to be one of the firſt and formoſt in Gods ſeruice.
+<note place="margin">
+                  <hi>Eccl.</hi> 10.20.</note> 
+               <hi>There is a ſeede of man which is an honour able ſeede: and this ho<g ref="char:EOLhyphen"/>nourable ſeede are they which feare the Lord.</hi> Now my wiſh and prayer vnto God, and my earneſt exhortation vnto you is this; that you would all grow ambitious of this honour, that you would lay aſide all other ſtrife, and make this your onely ſtrife, who ſhall firſt leaue his ſinnes, who ſhall firſt come vnto God. If this ſtrife were once a foot amongſt vs, no doubt but we ſhould come iointly and generally vn<g ref="char:EOLhyphen"/>to God, as the Iſraelites here did.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond Circumſtance obſeruable in this Comming of the Iſraelites vnto God, is now to be conſidered; which is, the Celeritie or preſent haſte vſed in this their Comming. <hi>(Wee Come)</hi> in the preſent Tenſe; not wee will come ere long; not we will conſider vpon it when will bee our fitteſt time to come vnto thee. No ſuch matter. Here is obedience with<g ref="char:EOLhyphen"/>out delay, preſent comming, anſwerable vn<g ref="char:EOLhyphen"/>to
+<pb n="17" facs="tcp:17660:10"/>Gods preſent calling. When God calls vp<g ref="char:EOLhyphen"/>on ſinfull men to repent and returne vnto him, the moſt giue him an anſwer, not vnlike that which <hi>Felix</hi> gaue vnto <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 24.26.</note> 
+               <hi>Goe thy way for this time, and when I haue conuenient time, I will call for thee againe.</hi> But we muſt not refuſe Gods conuenient time, and thinke to make him waite vpon our conuenient time. No, the practiſe of theſe Iſraelites muſt bee our pat<g ref="char:EOLhyphen"/>terne and inſtruction.
+<note place="margin">Proſp.</note> 
+               <hi>Obedientia non diſcutit Dei mandata, ſed facit.</hi> True obedience doth not debate the caſe when God commands, but preſently falls in hand with executing his command. Excellent is that example of faith<g ref="char:EOLhyphen"/>full <hi>Abraham.</hi> God ſaith vnto him,
+<note place="margin">
+                  <hi>Geneſis</hi> 12.</note> 
+               <hi>Get thee out of thy countrey, and from thy kindred, and from thy Fathers houſe, vnto the land that I will ſhew thee.</hi> And ſo <hi>Abraham</hi> preſently de<g ref="char:EOLhyphen"/>parted. Euen ſo when GOD bids the true ſeed of faithfull <hi>Abraham,</hi> to leaue their cor<g ref="char:EOLhyphen"/>rupt affections, to forſake their wonted wicked courſes, and come into that land of Righteouſneſſe which hee ſhewes vnto them, they preſently leaue the one, and come into the other. Delay is alwaies dangerous in mat<g ref="char:EOLhyphen"/>ters of importance, but in this our comming
+<pb n="18" facs="tcp:17660:11"/>vnto God, it drawes three Miſchiefes after it, and they are mighty miſchiefes too.</p>
+            <p>The firſt is,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> an vnſpeakeable and intollera<g ref="char:EOLhyphen"/>ble Indignity, offered vnto the Sacred Maie<g ref="char:EOLhyphen"/>ſtie of God himſelfe. For when God calls vs to come vnto him, What ſtaies vs from com<g ref="char:EOLhyphen"/>ming, vpon whom doe we waite in the Inte<g ref="char:EOLhyphen"/>rim? vpon whom (as much as in vs lies) doe wee make the great God of heauen to waite? I will tell you. It is our owne baſe and ſinfull luſts which ſtay our comming vnto God. For as the new married man anſwers in the Goſpell vnto Gods inuitation; <hi>I haue married a wife,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 14.20.</note> 
+               <hi>I cannot come:</hi> ſo ſinfull men an<g ref="char:EOLhyphen"/>ſwer when God inuites them to come vnto him by true repentance; We are wedded to our owne luſts; wee cannot come. But who hath made this marriage betwixt thine owne heart, and thy ſinfull luſt? Who is it that per<g ref="char:EOLhyphen"/>ſwades thee, to forſake the commands of God thy Father, and of Holy Church thy Mo<g ref="char:EOLhyphen"/>ther, and to cleaue vnto this ſtrumpet, which thou calleſt thy wife? Sure the Author of this is neither better nor worſe, but euen the diuell himſelfe. Now conſider ſeriouſly; is the in<g ref="char:EOLhyphen"/>finite Maieſty of the great God of heauen, a fit
+<pb n="19" facs="tcp:17660:11"/>Subiect to haue ſuch a ſcorne and contumely put vpon him? What earthly King would not ſtorme and rage at the Indignity, if calling one of his ſeruants to come vnto him, he ſhould anſwer. Sir I am ſporting with ſome of mine idle companions, and therfore your Highnes muſt bee content to waite my better leiſure. But if hereunto hee ſhould adde; heere is an old Rebell and Arch-traitor againſt your Ma<g ref="char:EOLhyphen"/>ieſty, who perſwades me not to come at your call, and I muſt be ruled by him; this would aggrauate the matter, and make it bee taken farre more hainouſly. This in effect is all that the Fornicator, the Drunkard, the Couetous, the Ambitious perſon hath to ſay for him<g ref="char:EOLhyphen"/>ſelfe, why vpon Gods call he comes not pre<g ref="char:EOLhyphen"/>ſently vnto him. His ſinfull luſts intreate him to imbrace them yet a little while longer: and the diuell whiſpers vnto his heart;
+<note place="margin">Nazianzen.</note> 
+               <hi>Da mihi quod praeſens eſt, Deo quod futurum eſt, mihi florem aetatis, illi reliquias.</hi> Giue me the preſent time, allow God the Future, giue mee the flower of thy youth, let God haue the bran of thine old age. Thus wretched men to the infinite diſho<g ref="char:EOLhyphen"/>nour of their Creator, let the diuell take his choice, and put God to waite for his lea<g ref="char:EOLhyphen"/>uings;
+<pb n="20" facs="tcp:17660:12"/>which in all likelihood will in the end proue either nothing, or worſe then nothing.</p>
+            <p>The ſecond Miſchiefe which followes vp<g ref="char:EOLhyphen"/>on it,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> when wee come not preſently at Gods call, is the manifold wrongs and Hurt which thereby wee doe vnto our owne ſoules. Wicked men whilſt they linger on the time of their returning vnto God, thinke that they doe their Soules great pleaſure, at leaſt that they doe them no great harme: but they con<g ref="char:EOLhyphen"/>ſider not that whilſt the Soule takes her ſinfull pleaſure, ſhee withall takes her deadly bane. Shee falls into a Conſumption of ſpirituall grace, if euer ſhee were indued therewithall: and is not a Conſumption a dangerous di<g ref="char:EOLhyphen"/>ſeaſe. Shee contracts a Schirrus, or ſpirituall hardneſſe, which makes the Soule ſcarcely penetrable by the dew of grace whenſoeuer it falls vpon it: and is not this a grieuous ma<g ref="char:EOLhyphen"/>lady? Laſt of all (if God be not wonderfully mercifull) ſhee comes to haue a cauterized conſcience, and to be giuen ouer vnto a Re<g ref="char:EOLhyphen"/>probate ſenſe, which is <hi>vltimum Terribilium,</hi> the laſt and moſt terrible euill that can befall a man, who is not yet in hell. Theſe things conſidered ſhould make a Chriſtian who hath
+<pb n="21" facs="tcp:17660:12"/>any care of his own ſoule, to beware of the di<g ref="char:EOLhyphen"/>uels Dilemms, who alwaies aduiſeth men in the point of Repentance, as the Philoſopher did in the caſe of marriage. If a young man aske his counſell; when ſhall I repent, and re<g ref="char:EOLhyphen"/>turne vnto God? his anſwer will be, <hi>Nondum,</hi> not yet, it is a great deale too ſoone. If an old man aske him the ſame queſtion, his anſwer will bee, <hi>Nunquam,</hi> not at all, it is now much too late. But we may build vpon it, that when<g ref="char:EOLhyphen"/>ſoeuer God calls vnto vs, (as at this very pre<g ref="char:EOLhyphen"/>ſent hee doth vnto vs all,) it is neither too ſoone nor too late, and therefore let young and old preſently come vnto him.</p>
+            <p>The third and laſt Miſchiefe,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> which at<g ref="char:EOLhyphen"/>tends vpon Delay, is a Number of vnknowne dangers, whereupon ſuch men put them<g ref="char:EOLhyphen"/>ſelues, euery moment that they continue im<g ref="char:EOLhyphen"/>penitent in their ſins. They trifle away their time, and delay their comming vnto God; but in the meane time who can aſſure them that Gods vengeance will delay the com<g ref="char:EOLhyphen"/>ming vnto them? It is ſafe and wiſe counſell; <hi>Make no tarrying to turne vnto the Lord,</hi>
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 5.7.</note> 
+               <hi>and put it not off from day to day: for ſuddenly ſhall the wrath of the Lord breake forth, and in thy ſecuri<g ref="char:EOLhyphen"/>ty
+<pb n="22" facs="tcp:17660:13"/>ſhalt thou be deſtroied.</hi> The longer thou ma<g ref="char:EOLhyphen"/>keſt the patience of God, expect thy returne, the heauier will the load of Gods iudgments light vpon thee,
+<note place="margin">Gregory.</note> for not returning <hi>Quo diutius expectat, durius damnat.</hi> The longer he waites, the harder he ſtrikes: Doſt not thou tremble to thinke, that whilſt thou art ſporting with thy ſinfull luſts,
+<note place="margin">
+                  <hi>Heb.</hi> 3. <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 11.</note> God may be Swearing <hi>in his wrath, that thou ſhalt neuer enter into his reſt?</hi> What was it but delaying to come when God called, which drowned the old world, which conſumed <hi>Sodom</hi> with fire and brimſtone, and which at length carried away the Iewes into the Babylonian Captiuity? And why may not <hi>England</hi> feare, leſt by the ſame fault, wee ſuddenly draw vpon vs the like deſtruction? <hi>O conſider this,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 50. <hi>Verſe</hi> 22.</note> 
+               <hi>yee that forget God, leaſt he teare you in peeces, and there be none to deliuer you.</hi> O conſider this yee that feare God; and that he may imbrace you within his armes of mercy, ſay preſently vnto him from an vnfeined re<g ref="char:EOLhyphen"/>ſolution;
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Behold, wee come vnto thee.</hi>
+            </p>
+            <p>Hauing ſpoken of the Generality of the Perſons which muſt come, and of the Preſent haſte to bee made in comming; the laſt Cir<g ref="char:EOLhyphen"/>cumſtance remaines; which is, the Direct
+<pb n="23" facs="tcp:17660:13"/>Courſe heere vſed: <hi>(Wee come vnto That.)</hi> They come in a moſt Direct line vnto God himſelfe: And in this ſtreight line, they mooue not onely towards him, or till they come ſome what neere him, but they come vp cloſe vnto him; neuer reſting, vntill they come to reſt, as it were in his very boſome. This alone is the Streight, Short, and perfect way of com<g ref="char:EOLhyphen"/>ming vnto God; other courſes, are but croo<g ref="char:EOLhyphen"/>ked by paths, or circular compaſſings, and will not anſwer the expectation of the Commers, as ſhall be cleered vnto you in the particulars.</p>
+            <p>It is a rule in naturall Philoſophie, <hi>Omnis motils eſt propter indigentiam;</hi> Euerie thing moues for ſupplying ſome want wherein it ſtands. Now the ſinner by this motion which we call Repenting, Returning, Conuerting or Comming (for all is one) ſeekes after three things, whereof no one can be had, but by comming directly vnto God himſelfe for it. And the leaſt of theſe three things is of more worth, then all the wealth, all the honour, yea all the world beſides: and therefore muſt be duly ſought.</p>
+            <p>The firſt is <hi>Venia,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Pardon for all our ſinnes paſſed, for obtaining whereof, who can ima<g ref="char:EOLhyphen"/>gine
+<pb n="24" facs="tcp:17660:14"/>a more proper and direct courſe, then to come immediately and directly vnto God the Father, by the <hi>True Way,</hi> God the Sonne, ta<g ref="char:EOLhyphen"/>king for our guide God the Holy Ghoſt? In this motion there is no crooked turning into by lanes, no circular and friuolous running in a round, but a moſt direct and ſtreight com<g ref="char:EOLhyphen"/>ming vnto God. And this is iuſt as God would haue it.
+<note place="margin">
+                  <hi>Ieremie</hi> 4. <hi>Eſay</hi> 43.</note> 
+               <hi>O Iſrael, if thou returne, returne vnto mee, ſaith the Lord: I, euen I am hee, that putteth away thine iniquities for mine owne ſake.</hi> And therefore <hi>Tertullian</hi> ſaid well in this caſe; <hi>Quo fugiam poenitendo, niſi ad eius miſericordiam cuius poteſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atem contempſeram peccando?</hi> Vnto whom ſhall I flie for pardon in repenting, but vnto his mercy, whoſe power I contemned in ſinning? And as for pardon of faults, ſo like<g ref="char:EOLhyphen"/>wiſe for Releaſe from Puniſhments which we feele or feare, the ſame direct courſe vnto God muſt bee holden. For the ſame hand which hath wounded vs, can onely heale vs, the ſame mighty arme which hath broken vs,
+<note place="margin">
+                  <hi>Hoſea</hi> 6.</note> can onely binde vs vp againe, as the Prophet ſpeakes. The young Prodigall when he came to his right minde, vnderſtood that none but his Father could either pardon his faults, or
+<pb n="25" facs="tcp:17660:14"/>free him from his miſeries: and therefore his reſolution is; <hi>I will ariſe, and goe to my Father,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 15.</note> 
+               <hi>and ſay; Father I haue ſinned againſt heauen, and before thee, &amp;c.</hi> You know the gratious enter<g ref="char:EOLhyphen"/>tainment which hee found. Shall wee then when wee finde our ſelues troubled in conſci<g ref="char:EOLhyphen"/>ence with the guilt of our ſinnes, hope to get abſolution and remiſſion from ſinnefull men, ſtanding in as much need of remiſſion as our ſelues? By no meanes: For,
+<note place="margin">2 <hi>Cor.</hi> 5. <hi>Verſe</hi> 18.</note> albeit <hi>the miniſtery of Reconciliation</hi> be committed vnto men; yet there was neuer man inueſted with the Au<g ref="char:EOLhyphen"/>thority of Remiſſion,
+<note place="margin">
+                  <hi>Mat.</hi> 9.6.</note> but onely <hi>the man Chriſt Ieſus,</hi> who was God and Man in vnity of Per<g ref="char:EOLhyphen"/>ſon. Shall wee when wee feele the ſmart of Gods ſcourges, or tremble for feare of ſome future puniſhments, hope to cleere the ſcore by purchaſing ſome plenary Indulgence from Chriſts pretended Vicar. Away with ſuch foolery. Let the Pope firſt prooue that he needs no pardon for his owne ſins, or that he can pardon himſelfe, and then let him trie what good his pardon can doe vnto others. And as for releaſe from any puniſhment, whereunto God hath adiudged a ſinner, I am ſure that if it were but one fit of a burning
+<pb n="26" facs="tcp:17660:15"/>ague, the Popes plenary Indulgence, with that moſt fauourable and liberall clauſe, <hi>Quantum ſe extendunt claues Petri,</hi> can doe him no helpe or good at all. Doe wee herefore ſeeke to be freed from the burden of ſin which preſſeth our conſciences, or from the burden of puniſhment which lies vpon our backes, or hangs ouer our heads; let vs take the onely ſtreight and direct way, which is, by a true Faith, and a new life to come vnto God; and in ſo doing wee may aſſure our ſelues of fin<g ref="char:EOLhyphen"/>ding that which we come for.</p>
+            <p>There is a ſecond want,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> to wit, of ſanctifying Grace, which the penitent ſoule hopes to haue ſupplied; for ſupply whereof there is no other poſſible way, but onely this, to come directly and immediately vnto God. For this grace whereby wee are enabled and ſtrengthened to leade a godly Righteous and Sober life, is a gift <hi>that comes from aboue from the Father of Lights,</hi>
+               <note place="margin">
+                  <hi>Iames</hi> 1.17.</note> and therefore if any man lacke this heauenly gift, <hi>let him</hi> come to <hi>as he it of God, which giueth to all men liberally,</hi> and reprocheth no man, as the ſame Apoſtle ſpeaketh. To im<g ref="char:EOLhyphen"/>print this leſſon in our hearts, Bleſſed Saint <hi>Paul</hi> makes it a vſuall Salutation in the fore<g ref="char:EOLhyphen"/>front
+<pb n="27" facs="tcp:17660:15"/>of his Epiſtles;
+<note place="margin">
+                  <hi>Rom.</hi> 1.7.</note> 
+               <hi>Grace and Peace from God our Father, and from the Lord Ieſus Chriſt.</hi> The very heathen Philoſopher had ſome glimme<g ref="char:EOLhyphen"/>ring of this Truth, that mans goodneſſe is Gods gift: which made him ſay.
+<note place="margin">Seneca.</note> 
+               <hi>Bonus vir ſine Deo nembeſt. Nulla ſine Deo bonamens.</hi> There is no good man; nor no good minde in any man without God. Doth the ſoule therefore of any man hunger and thirſt after righte<g ref="char:EOLhyphen"/>ouſneſſe, doth it long to be refreſhed with the dew of diuine grace,
+<note place="margin">
+                  <hi>Ier.</hi> 2.13.</note> ſeeke it at the <hi>Fountaine of liuing waters,</hi> and not in <hi>broken pitts, which can hold no</hi> ſuch precious <hi>water.</hi> Some are ſo fooliſh as to thinke ſpirituall grace may bee found in holy water, in Reliques and ſuch like ſuperſtitious obſeruations. Some hope to fetch it from <hi>Rome, Loretto</hi> or <hi>Ieruſalem</hi> by a tedious and long pilgrimage. Some ſuppoſe the directeſt and readieſt way, is to begge it of the Saints, and eſpecially of the Bleſſed Mother of our Sauiour Chriſt. But God con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eigheth not his grace into the ſoules of men, thorough any of thoſe channels. Wee muſt come vnto him for it, and in the vſe of his ordinances, wee ſhall receiue heauenly grace immediately from the hand of our heauenly
+<pb n="28" facs="tcp:17660:16"/>Father.
+<note place="margin">Pariſienſis.</note> 
+               <hi>Gratia immediate ex ipſo Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e deſcen<g ref="char:EOLhyphen"/>dit in cor humanum, alium alveum, aut aliam cau<g ref="char:EOLhyphen"/>ſam non habet.</hi> Grace doth immediately de<g ref="char:EOLhyphen"/>ſcend into the heart of a man, from God the Fountaine of grace; other courſe or other cauſe it hath none. All therefore that thirſt af<g ref="char:EOLhyphen"/>ter this ſanctifying grace muſt come directly vnto God for it. Here euery man will be rea<g ref="char:EOLhyphen"/>dy to ſay; there is none of vs ſo wretched and prophane that comes not directly and daily vnto God, for this gift of heauenly grace. I will ſhew you what manner of men refuſe to do this, and then I will leaue it to euery mans own conſcience, whether hee be in the num<g ref="char:EOLhyphen"/>ber, or no. Thoſe who finde not themſelues ouer-preſſed, and wearied vnder the burden of their ſinnes: Thoſe who feele not in them<g ref="char:EOLhyphen"/>ſelues a hungring and thirſting after righte<g ref="char:EOLhyphen"/>ouſnes; thoſe that care not for the meanes of obtaining grace; to wit, Prayer, the Word, the Sacraments: In briefe, thoſe that are more deſirous to enioy their ſinfull luſts, then to ſubdue and conquer them: theſe, and all theſe refuſe to come vnto God for his ſancti<g ref="char:EOLhyphen"/>fying grace. Nay, I may goe a ſtep further; If God come &amp; offer his grace vnto any thus
+<pb n="29" facs="tcp:17660:16"/>diſpoſed, they are ready to thruſt it backe; and had much rather obtaine from God (if it were poſſible) a diſpenſation to liue ſtill after the ſinnefull luſtes of their owne hearts, than a power and ſtrength to ouercome the ſinne<g ref="char:EOLhyphen"/>full luſtes of their owne hearts. If GOD ſhould preſently offer vnto vs all, our choice of theſe two; how many of vs would be at a ſtand which to chooſe? How many may we iuſtly ſuſpect would chooſe the latter, and the worſer part? I preſſe this no further; Let e<g ref="char:EOLhyphen"/>uery man iudge of himſelf by that which hath been ſayd, whether he ſay vnto God, as theſe Iſraelites did, <hi>Behold I come vnto thee,</hi> for thy ſanctifying grace.</p>
+            <p>Now there remains the third and laſt thing which a ſinner returning ſeekes after,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> and that is Glory, or Eternall life. There were no great benefit reaped by comming vnto God for par<g ref="char:EOLhyphen"/>don of our miſdeedes, and grace to liue well, if theſe two drew not after them the benefit of eternall life. But when we haue truly repen<g ref="char:EOLhyphen"/>ted, obtained pardon, and indeuoured our beſt to lead a new and holy life; for all this our conſciences will tell vs, that we fall ſhort of deſeruing eternall life. Surely then there is
+<pb n="30" facs="tcp:17660:17"/>but one direct courſe to obtaine it, and that is by addreſſing our ſelues as humble petitio<g ref="char:EOLhyphen"/>ners vnto God, and ſaying: <hi>Behold wee come vnto thee,</hi> to begge that which we know wee cannot merit.
+<note place="margin">
+                  <hi>Rom.</hi> 3.</note> 
+               <hi>For all haue ſinned, and are depri<g ref="char:EOLhyphen"/>ued of the glory of God, and haue no other hope to obtaine it,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 6.</note> 
+               <hi>but by way of free gift, through Ieſus Chriſt our Lord.</hi> And yet let me tell you this; that if we come vnto God for it as we ſhould, that is, <hi>by faith and holineſſe of life:</hi> this verie comming is a moſt certain leading way there<g ref="char:EOLhyphen"/>unto, though not a deſeruing cauſe thereof. It is a ſhort but a ſound determination of S. <hi>Bernard;</hi> that good works, or a godly life is, <hi>Viaregni, non cauſa regnandi.</hi> The Apoſtle hath taught vs the ſame doctrine;
+<note place="margin">
+                  <hi>Rom.</hi> 2.2.7.</note> 
+               <hi>that by continu<g ref="char:EOLhyphen"/>ance in well doing, wee ſeeke glory and honour, and immortalitie and eternall life.</hi> But, alas, how ma<g ref="char:EOLhyphen"/>nie be there in the world that dream they ſeek after eternall life, and yet neuer take this di<g ref="char:EOLhyphen"/>rect courſe of comming vnto God for it? Will your proud Papiſticall merit mongers come to God for it and begge it at his hands? No ſure. They will rather vrge God to bring it vnto them, and paie it as a due debt, which by their condigne merits they haue long ago de<g ref="char:EOLhyphen"/>ſerued,
+<pb n="31" facs="tcp:17660:17"/>
+               <hi>ſecundum aequiualentiam rei adrem,</hi> as their Ieſuiticall Doctors haue taught them to ſpeake. Doe prophane Epicures, and vngod<g ref="char:EOLhyphen"/>ly worldlings ſeeke it by comming vnto God for it? No queſtionleſſe: They rather ſeeke it from the diuell; as if they beleeued not onely that boaſting lye of his,
+<note place="margin">
+                  <hi>Luke</hi> 4.</note> 
+               <hi>All the Kingdomes of the earth are mine, and to whomſoeuer I will, I giue them:</hi> But as if they beleeued that which the Father of lyes durſt not affirme; that the king<g ref="char:EOLhyphen"/>dome of Heauen was at his diſpoſe, and that by his ſeruice it might be gained. Laſt of all, Doe hypocrites (thinke you) and diſſemblers come to God for eternall life? Nothing leſſe. They make a ſhew ſometimes of comming to<g ref="char:EOLhyphen"/>wards God, &amp; drawing very neere vnto him, but in their hearts they are reſolued neuer to come at him. It ſhould ſeeme they thinke to get into heauen, not by comming vnto God in the plaine and direct way of a liuely Faith and a holy life, but by deceiuing God, and ſhipping in at ſome blinde back-dore of their owne making. But to ſhut vp this point, and withall the former part of my Text. Let eue<g ref="char:EOLhyphen"/>ry man that deſires either pardon of his ſins, or releaſe from Gods iudgements, that hopes
+<pb n="32" facs="tcp:17660:18"/>either for infuſion of ſanctifying grace here, or participation of eternall glorie hereafter, come to God for all theſe, and come to him in that direct way which he hath appointed. And thus much for the Iſraelites proteſtation of obedience.</p>
+            <p>We are now come to the other branch of my Text, which containes a Declaration of thoſe Motiues which induced them to obey; in theſe words. <hi>(For thou art the Lord, our God.)</hi> Heere is a double chaine to binde men vnto obedience. The ſtrong iron chaine of Gods infinite Power and vniuerſall dominion, which ties all men alike: <hi>(For thou art the Lord,)</hi> The pleaſant golden chaine of Gods ſpeciall loue and mercy, which in ſpeciall manner tied theſe Iſraelites vnto him. <hi>(Our God.)</hi> He that ac<g ref="char:EOLhyphen"/>knowledgeth God to be the vniuerſall and Omnipotent Lord ouer all the world, feare ſhould driue him to obey his commands. He which beleeues him to be <hi>His God,</hi> loue ſhould draw him to obey his commands. He whom this double chaine cannot binde vnto obedi<g ref="char:EOLhyphen"/>ence, is in a farre worſe caſe then that <hi>Demo<g ref="char:EOLhyphen"/>niack</hi> in the Goſpell,
+<note place="margin">
+                  <hi>Marke</hi> 5.3.</note> 
+               <hi>Whom no man could binde, no not with chaines.</hi> Let vs beginne with the former.</p>
+            <pb n="33" facs="tcp:17660:18"/>
+            <p> God is heere acknowledged, <hi>The Lord.</hi> Not a Lord, ouer this or that Nation, within the precincts of this or that place; but <hi>The Lord,</hi> ouer all nations, ouer all countries, ouer all Lords, ouer all Creatures. <hi>I am The Lord, this is my name, and my glory I will not giue to ano<g ref="char:EOLhyphen"/>ther, Eſay</hi> 42.8. Now God is ſuch an vniuer<g ref="char:EOLhyphen"/>ſall Lord, in three reſpects:</p>
+            <p>Firſt, he is the Lord Creator,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> that makes all his ſubiects, that makes the ſubiects of al other Lords, yea, that makes the Lords themſelues, and that out of Nothing. Our bodies with all the members thereof, our ſoules with all the faculties thereof, are of his making.
+<note place="margin">
+                  <hi>Pſal.</hi> 100.</note> 
+               <hi>It is hee that made vs, not we our ſelues.</hi> Not our earthly parents; who were vnable to frame the leaſt part of our bodies, much more vnable to breath into vs liuing ſoules. <hi>Qui ſilium generat,</hi>
+               <note place="margin">Lactantius.</note> 
+               <hi>non habet poteſtatem vt concipiatur, vt naſcatur, vt viuat.</hi> He which begets a childe, hath nei<g ref="char:EOLhyphen"/>ther the conception, the birth, nor the life of his owne childe, within the limits of his pow<g ref="char:EOLhyphen"/>er. If our Parents had beene our Makers, wee had beene but like dead idols, <hi>which haue eyes and ſee not, eares and heare not, hands and handle not, feet and walke not.</hi> This ground worke
+<pb n="34" facs="tcp:17660:19"/>beeing now laid, that God, is the Lord of all men by creation, let vs conſider whatforce this ought to haue in drawing vs to obedi<g ref="char:EOLhyphen"/>ence. Firſt, I am ſure, that God himſelfe iudgeth it a moſt forcible motiue. Why elſe ſhould he ſet ſuch a <hi>Memento</hi> vpon it? <hi>Remem<g ref="char:EOLhyphen"/>ber thy Creator in the daies of thy youth.</hi>
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 12.</note> Out of doubt God knew that it was impoſſible euen for a young man to grow rebellious, whilſt he remembers the Lord to be his Creator. Why ſhould God charge euery wicked and vngod<g ref="char:EOLhyphen"/>ly man,
+<note place="margin">
+                  <hi>Deut.</hi> 32.18.</note> with an <hi>Oblitus es Domini Creator is tui, Thou haſt forgot the Lord thy Maker;</hi> but that he knowes, if this were not forgotten, his com<g ref="char:EOLhyphen"/>mands would neuer be diſobeyed. Not one<g ref="char:EOLhyphen"/>ly God, but all good men haue conceiued the force of this motiue to be ſo great, that vpon the apprehenſion thereof, they preſently con<g ref="char:EOLhyphen"/>clude in their owne ſoules: <hi>Come let vs fall downe and kneele before the Lord our Maker.</hi> If Grace were wanting, yet Reaſon is able to make this inference; If God be my ſouereigne Lord by right of Creation, I cannot reſiſt him but to mine owne deſtruction. For <hi>woe will be vnto him that ſtriues with his Maker.</hi>
+               <note place="margin">
+                  <hi>Eſay</hi> 4.9.</note> This rea<g ref="char:EOLhyphen"/>ſon makes all creatures though deuoid of rea<g ref="char:EOLhyphen"/>ſon,
+<pb n="35" facs="tcp:17660:19"/>ready to obey at Gods beck. God made the Sunne; and therefore if hee bid it ſtand ſtill in the firmament, it dares not but ſtand, if he bid it goe backe ſo many degrees, it dares not but goe backe; though in its owne nature it reioyceth like a Gyant to runne his perpe<g ref="char:EOLhyphen"/>tuall courſe. God made the fire; therfore if he forbid, it dares not burne the three children, no not ſinge ſo much as one haire of their heads. The like obedience to their Creator hath ſhewen it ſelfe in the moſt fierce beaſts, in the moſt rauening birds, in the moſt vene<g ref="char:EOLhyphen"/>mous Serpents. What ſhall we ſay then is the cauſe, that this moſt forcible reaſon, hath ſo little force in moouing reaſonable men vnto obedience? That whereas euery childe if he bee asked who made him, can preſently an<g ref="char:EOLhyphen"/>ſwer, God; yet few men when GOD who made them askes for their obedience, haue learned to anſwer from the heart, Behold we obey. I can giue no better reaſon here of then this: that men deceiue themſelues, whileſt they ſuppoſe they firmely beleeue that as an Article of their faith, which they onely aſſent vnto for company or faſhion ſake, becauſe o<g ref="char:EOLhyphen"/>ther Chriſtians hold it for an Article. Such a
+<pb n="36" facs="tcp:17660:20"/>beleefe, is but a ſlight opinion ſwimming in the braine, it is no true and liuely faith, rooted in the heart. Such men when they call God their Creator, deale with him as the lewes did with Chriſt; who clothed him in a royall robe, and ſalute him with the royall title of a King, and yet at the ſame time they ſcorne him, buffet him, and ſpit in his face. Doth not the Drunkard, the Fornicator, the Sweater, and in a word euery bold and rebellious ſin<g ref="char:EOLhyphen"/>ner deale with God in the ſame manner? He calls him his Creator, he bowes the knee vn<g ref="char:EOLhyphen"/>to him as to his Maker, and yet he ſeares not to caſt the filth of his ſins into the very eyes of this his Lord and Maker <hi>Cuires nominiſubiecta negatur,</hi>
+               <note place="margin">Tertullian.</note> 
+               <hi>nomine illuditur.</hi> It is but a flat mocke<g ref="char:EOLhyphen"/>ry to giue God high titles, and to denie him anſwerable duties: and thoſe which doe it, are but Chriſtians in name, and Infidels in deede and truth. The true Chriſtian that be<g ref="char:EOLhyphen"/>leeues from a ſound heart God to be his Ma<g ref="char:EOLhyphen"/>ker, cannot but in ſome good meaſure from the heart obey God his Maker.</p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> GOD is not onely The Lord Creator, but alſo The Lord High Protector, or Generall Preſeruer of all his creatures, and
+<pb n="37" facs="tcp:17660:20"/>more eſpecially of mankinde. For God is not like an artificer; who when hee hath finiſhed his worke, quits his hands of it, and leaues it for-laſting or periſhing to the ſtrength of the materials, whereof it conſiſts No; we muſt con<g ref="char:EOLhyphen"/>ceiue a perpetuall <hi>Manatenentia diuina</hi> (as the Schoolemen terme it) without which, men and Angels, heauen and earth, with all the creatures in the world, would in a moment fall backe into that Nothing out of which they were at firſt made Something. Vpon this ground <hi>Durandus</hi> maintaines;
+<note place="margin">Durand.</note> 
+               <hi>Verum eſt dicere de quauis creatura, quod quamdiu eſt, crea<g ref="char:EOLhyphen"/>tior à Deo.</hi> We may truely ſay of any creature, that ſo long as it Is, ſo long God Creates it. His meaning is, that Creation and this Con<g ref="char:EOLhyphen"/>ſeruation are the ſame action being conſide<g ref="char:EOLhyphen"/>red in God; and only differ thus: That Creati<g ref="char:EOLhyphen"/>on reſpects the Being of the Creature, as new<g ref="char:EOLhyphen"/>ly produced out of Nothing by Gods infinite power: and this Preſeruation reſpects the Beeing of the ſame creature, as continually ſupported from falling into nothing, by the ſame infinite power of GOD. But to let Schoole-ſpeculations paſſe; the Scripture can beſt teach vs, how this title of Vniuerſall Lord
+<pb n="38" facs="tcp:17660:21"/>Protector belongeth vnto the Almighty.
+<note place="margin">
+                  <hi>Coloſ.</hi> 1.17.</note> 
+               <hi>He is before all things, and in him all things Subſiſt,</hi> ſaith the bleſſed Apoſtle. And againe, <hi>Omnia portat, Hee beareth vp all things by his mighty power.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 1.3.</note> So that if this our great Supporter, ſhould but for a moment withdraw his Preſeruing power, the whole world in the twinkling of an eye, would vaniſh into Nothing. Neither is it our Being only, which depends vpon Gods con<g ref="char:EOLhyphen"/>tinuall preſeruation; but all our well-beeing is alſo deriued from his gratious prouidence and protection. It is this bountifull Lord which <hi>opens his hand, and filleth vs with his bleſ<g ref="char:EOLhyphen"/>ſings;</hi> which holdeth his hand ouer vs, and keepes vs out of manifold dangers, which ſtretcheth out his helping hand vnto vs, and pluckes vs out of all our miſeries. Such a Ge<g ref="char:EOLhyphen"/>nerall Powerfull and Careful Lord Protector, is our God vnto vs. Now this being granted, is it not an effectuall motiue to make all men dutifull and obedient vnto ſuch a Lord? I am ſure that our Souereigne Lords vpon earth, for this very cauſe of protecting their ſubiects, and maintaining them in peace and ſafety; challenge and iuſtly challenge,
+<note place="margin">
+                  <hi>Rom.</hi> 13. <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 6.</note> both obedi<g ref="char:EOLhyphen"/>ence and tribute at their hands. How much
+<pb n="39" facs="tcp:17660:21"/>more then may the Souereigne Lord of Hea<g ref="char:EOLhyphen"/>uen, who protects both Prince and People, challenge the tribute of obedience fro<g ref="char:cmbAbbrStroke">̄</g> them both? Out of doubt he will and doth require it, and therefore it is our beſt to pay it. The wiſe <hi>Salomon</hi> tells vs,
+<note place="margin">
+                  <hi>Pro.</hi> 3.</note> 
+               <hi>There is no riſing vp againſt the King.</hi> And the Hebrewes haue a Prouer<g ref="char:EOLhyphen"/>biall ſaying: <hi>Migrandum ex loco in quo Rox non timetur.</hi> It is time to leaue that Countrey where the King is not feared: as if alwaies ſome great iudgement were hanging ouer it. What then may we think is like to befall that Nation, which is vp in rebellion againſt their heauenly King, which deny obedience to their omnipotent Lord, and gratious Protec<g ref="char:EOLhyphen"/>tor? I am either much deceiued, or this mat<g ref="char:EOLhyphen"/>ter doth very neerely concerne vs. No Na<g ref="char:EOLhyphen"/>tion in the world hath ſeene more apparent effects of Gods admirable protection ouer them, then we haue done. No Nation in the world hath been more laded, and ouer laded with plenty of all manner of bleſſings, then we haue been: And (which I am ſorrie may truly be added) no Nation in the World hath ſhewed themſelues more careleſſe, and thank<g ref="char:EOLhyphen"/>leſſe and graceleſſe, towards ſo gratious a
+<pb n="40" facs="tcp:17660:22"/>Lord, and mighty Protector then wee haue done. I cannot thinke of the generall impie<g ref="char:EOLhyphen"/>tie of theſe times, but me thinkes I ſee with<g ref="char:EOLhyphen"/>all a terrible blacke ſtorme gathering ouer our heads: mee thickes I ſee God withdrawing his wonted fauourable protection from vs, and ſuffering vs to be ouerwhelmed with ſuch iudgements, as our folly and impiety hath long agoe deſerued. There is but one meanes to preuent thoſe miſeries which haſten to<g ref="char:EOLhyphen"/>wards vs; and that is, betimes to ceaſe from farther prouoking our mighty and gratious Protector.
+<note place="margin">
+                  <hi>Ieremie</hi> 25. <hi>Verſe</hi> 6.</note> 
+               <hi>Prouoke me not to anger by the workes of your hands, and I will doe you no barme:</hi> it is Gods owne promiſe, by the mouth of the ho<g ref="char:EOLhyphen"/>ly Prophet.</p>
+            <p>I am now come to the third and laſt Re<g ref="char:EOLhyphen"/>ſpect,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> wherein God is truely ſtiled, <hi>The Lord;</hi> that is the Vniuerſall Lord ouer all mankinde. And this is, in regard of his Iudiciary Office and Power, which makes him the true Lord Chiefe Iuſtice through the whole world. For the Office, it is in expreſſe termes aſcribed vn<g ref="char:EOLhyphen"/>to him by the Pſalmiſt.
+<note place="margin">
+                  <hi>Pſal.</hi> 9.7.</note> 
+               <hi>The Lord hath prepa<g ref="char:EOLhyphen"/>red his throne for iudgement; for he ſhall iudge the world with righteouſneſſe, and the people with
+<pb n="41" facs="tcp:17660:22"/>equity.</hi> And this Office, doth not onely extend it ſelfe to the puniſhing of the wicked who hate God; but to Gods owne children alſo when they diſobey him.
+<note place="margin">
+                  <hi>Pſal.</hi> 89.32.</note> 
+               <hi>I will viſit their tranſ<g ref="char:EOLhyphen"/>greſsions with the rodde, and their iniquity with ſtripes.</hi> None but ſuch prophane Atheiſts, who wiſh God out of this Office, durſt euer denie it to belong vnto him. <hi>Marcion</hi> was an<g ref="char:EOLhyphen"/>ciently branded in the fore-head for this hereſie. <hi>Iudicis officium à Deo remouet, &amp; ei ſo<g ref="char:EOLhyphen"/>lum bonitatem adſcribit,</hi> ſaith <hi>Tertullian.</hi> But no doubt long ſince, his owne experience hath made him recant this error in hell. It may be, though God haue this Office of an vniuerſall Iudge ouer all the world, yet this Circuit is ſo large, that he wants Power or Meanes fully to execute it. This cannot be imagined; the contrary ſo euidently appeares thorough the whole Scripture.
+<note place="margin">
+                  <hi>Gen.</hi> 6.12.</note> 
+               <hi>When all fleſh had corrupted their waies vpon earth,</hi> an end of all fleſh is pre<g ref="char:EOLhyphen"/>ſently determined by the Iudge of heauen; and the whole world is ſentenced to be drow<g ref="char:EOLhyphen"/>ned; and the ſentence is as eaſily executed, as if it had beene pronounced but againſt ſome one particular man.
+<note place="margin">
+                  <hi>Gen.</hi> 18.</note> 
+               <hi>When the crie of Sodome and Gomorrah had pierced the heauens, God ad<g ref="char:EOLhyphen"/>iudged
+<pb n="42" facs="tcp:17660:23"/>them to be burned with fire and brimſtone;</hi> and preſently he rained fire and brimſtone vp<g ref="char:EOLhyphen"/>on their heads. I will not trouble you with heaping vp more examples of Gods power in this kinde; I had rather ſtirre you vp to feare and obedience, vpon conſideration of the vn<g ref="char:EOLhyphen"/>reſiſtable power of this Supreame and Vni<g ref="char:EOLhyphen"/>uerſall Iudge. Shall the Lyon roare and ſhall not the beaſts of the field quake? Shall the great ludge of heauen threaten vengeance a<g ref="char:EOLhyphen"/>gainſt rebellious ſinners, and ſhall not duſt and aſhes fall downe at his feete, and humbly ſue for mercy? Shall the Diuell himſelfe vpon the knowledge of Gods ſupreame Iudiciary power beleeue and tremble, and ſhall men more Diueliſh then the Diuell beleeue God to be an Omnipotent Lord and Vniuerſall Iudge, and yet neuer tremble at the matter? It were hard to thinke there were any ſuch Gy<g ref="char:EOLhyphen"/>ants in the world, who durſt fight againſt God, and deſpiſe both the Office and Power of this Soueraigne Lord, and Vniuerſall Iudge, but that wee ſee them daily with our eyes, and heare them with our eares. Is not the ſtrong Churh-robber one of theſe Gyants, who dares openly ſay;
+<note place="margin">
+                  <hi>Pſal.</hi> 83.</note> 
+               <hi>Come let vs take the houſes
+<pb n="43" facs="tcp:17660:23"/>of God into poſſeſsion;</hi> neuer fearing that which followes: <hi>O my God, make them like a wheele, and like ſtubble before the winde.</hi> Is not the abo<g ref="char:EOLhyphen"/>minable ſwearer one of theſe Gyants, who dares toſſe and tumble the reuerend name of God in his foule mouth, though God haue threatned that for ſuch irreligious oathes the land ſhall mourne. Is not euery filthy forni<g ref="char:EOLhyphen"/>cator, euery beaſtly drunkard, and in a word, euery ſhameleſſe and daring ſinner of the race of theſe Gyants; who knowing and con<g ref="char:EOLhyphen"/>feſſing that this great Iudge hath already paſ<g ref="char:EOLhyphen"/>ſed a ſentence of death againſt theſe ſinnes,
+<note place="margin">1 <hi>Cor.</hi> 6.9.</note> yet ſport themſelues with them, and gibe at the Iudge himſelfe. <hi>Iuſh, the Lord ſhall not ſee it, neither will the God of Iacob regard it.</hi> But I hope there is none heere of this rebellious rout: nay I hope euery man heere preſent is in all humility &amp; obedience ready to ſay vnto this great Lord and Iudge, as the Iſraelites doe in the Text. <hi>Behold, wee come vnto thee, for thou art the Lord, our God.</hi> And now let vs paſſe from the Generall Motiue, vnto the more ſpe<g ref="char:EOLhyphen"/>ciall in the two laſt words, <hi>(Our God.)</hi>
+            </p>
+            <p>
+               <hi>(Our God:)</hi> The former Motiue was com<g ref="char:EOLhyphen"/>mon to the Iſraelites with all other nations:
+<pb n="44" facs="tcp:17660:24"/>for God is the Creator, Protector, and Iudge of all men: but this is proper vnto them, as they made the Body of Gods viſible Church, for it is the Church alone, which can chal<g ref="char:EOLhyphen"/>lenge God by peculiar right to bee her God. And this ſhee may doe in a double reſpect. <hi>Iure confederationis, Iure redemptionis.</hi> By right of Couenant, or confederation; and by right of Ranſome or Redemption.</p>
+            <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> by right of Couenant eſtabliſhed be<g ref="char:EOLhyphen"/>twixt God and the ſeed of <hi>Abraham. I will eſta<g ref="char:EOLhyphen"/>bliſh my Couenant betwixt mee and thee,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 17.7. <hi>Verſe</hi> 10.</note> 
+               <hi>and thy ſeed after thee.</hi> And for further ratification of this couenant, God would needs haue the ſeale of circumciſion put vnto it. If this bee not enough, God ouer and aboue hath con<g ref="char:EOLhyphen"/>firmed it,
+<note place="margin">
+                  <hi>Ezek.</hi> 16.8.</note> by ſwearing thereunto. <hi>I ſware vnto thee, and entred into a couenant with thee and thou becameſt mine.</hi> In reſpect of this ſpeciall Coue<g ref="char:EOLhyphen"/>nant, God claimed the lewes for his ſpeciall inheritance &amp; peculiar people; and they chal<g ref="char:EOLhyphen"/>lenged him for Their God, in a more ſpeciall manner, then all the world beſides could doe. Now as God was by a ſpeciall couenant God of the Iewes vnder the Old Teſtament, ſo now he is become God of the Chriſtians vnder the
+<pb n="45" facs="tcp:17660:24"/>New. Our Baptiſme is the ſealing of this Co<g ref="char:EOLhyphen"/>uenant, wherein the bleſſed Trinity, Father, Sonne, and Holy Ghoſt, receiue the party Baptized into ſpeciall fauour and protection: and the party there indents with the ſame bleſſed Trinity, ſo ſoone as he ſhall come to vnderſtand this Couenant, preſently <hi>to for<g ref="char:EOLhyphen"/>ſake the Diuell and all his workes, constantly to beleeue Gods holy Word, and obediently to keepe his commandements.</hi> Now I haue ſhewed the Na<g ref="char:EOLhyphen"/>ture and quality of this Couenant, which then warranted the Iſraelites, and now warrants vs Chriſtians, to call God, <hi>Our God;</hi> let vs con<g ref="char:EOLhyphen"/>ſider how forcible it is, or ought to be to draw vs all vnto obedience.</p>
+            <p>Firſt, this very Couenant muſt put vs in minde of obedience; becauſe otherwiſe wee looſe the Benefit there of, for not Taking hold of the ſaid Couenant.
+<note place="margin">
+                  <hi>Chap.</hi> 56. <hi>Verſe</hi> 4.</note> The Prophet <hi>Eſay</hi> hath taught vs, that the keeping of Gods comman<g ref="char:EOLhyphen"/>dement, and chuſing the things that pleaſe him; is the very taking hold of this Coue<g ref="char:EOLhyphen"/>nant: and therefore it will follow from the contrary, that he deſpiſing of Gods Com<g ref="char:EOLhyphen"/>mandements, and doing thoſe things which he hates, is the looſing of this hold.</p>
+            <pb n="46" facs="tcp:17660:25"/>
+            <p> Againe we are farther to conſider, that all our happines or vnhappines in this life, and after this life, depends vpon the keeping or breaking of this Couenant.
+<note place="margin">
+                  <hi>Eſay</hi> 1.19.</note> 
+               <hi>If yee will conſent and obey, you ſhall eat the good things of the land. But if you will not obey,</hi>
+               <note place="margin">
+                  <hi>Leuit.</hi> 26. <hi>Verſe</hi> 15.</note> 
+               <hi>but deſpiſe mine Ordinan<g ref="char:EOLhyphen"/>ces, and breake my Couenant, then I will ſet my face againſt you, &amp;c.</hi> It is a Chapter worthy of our moſt diligent peruſall. For in it as in a glaſſe we may cleerely ſee, how it comes about, that we the people of this Land, who were ſome<g ref="char:EOLhyphen"/>times crowned with all Gods bleſſings, begin of late to be ſtripped out of them one after a<g ref="char:EOLhyphen"/>nother, and are in danger of being depriued of them all. We may likewiſe ſee, from whence it comes that wee haue beene conſumed at home with plague &amp; peſtilence, that abroad wee haue fallen before the ſword of the ene<g ref="char:EOLhyphen"/>my; in theſe and all other iudgements which haue or ſhall light vpon vs, we muſt take no<g ref="char:EOLhyphen"/>tice of <hi>Our God,</hi>
+               <note place="margin">
+                  <hi>Leuit.</hi> 26. <hi>Verſe</hi> 25.</note> as auenging the quarrel of his Couenant. What quarrell can God haue a<g ref="char:EOLhyphen"/>gainſt vs about this Couenant? He hath a dou<g ref="char:EOLhyphen"/>ble quarrell. Firſt, for our Hypocriſie; in that wee call him <hi>Our God,</hi> and make ſhew as if we were his peculiar people; in that we call him
+<pb n="47" facs="tcp:17660:25"/>
+               <hi>Our Father,</hi> and pretend that wee are his true children, and yet in the meane time wee will neither ſerue him as <hi>Our God,</hi> nor loue him as <hi>Our Father.</hi>
+               <note place="margin">
+                  <hi>Ieremie</hi> 3. <hi>Verſe</hi> 19.</note> It is Gods agreement with his people: <hi>Thou ſhalt call mee,</hi> ſaying, <hi>My Father, and ſhalt not turne from me.</hi> He that will needs call God Father, and yet will turne away from him in the courſe of his wicked life: If God call him ſonne, it will be no more to his com<g ref="char:EOLhyphen"/>fort, then when <hi>Abraham</hi> ſaid to the glutton in hell. <hi>Sonne,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 16.</note> 
+               <hi>Remember that thou in thy life time tookest thy ſinnefull pleaſures, and therefore now thou muſt be content to vndergoe eternall tor<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>But yet God hath a farther quarrell againſt theſe Couenant breakers, and that is not on<g ref="char:EOLhyphen"/>ly for their hypocriſie, but for their plaine treacherie. For as if it were not bad enough to forget the Couenant eſtabliſhed betwixt God and them, they moſt traiterouſly ac<g ref="char:EOLhyphen"/>count,
+<note place="margin">
+                  <hi>Heb.</hi> 10. <hi>Verſe</hi> 29.</note> 
+               <hi>the bloud of this Couenant as an vnholy thing,</hi> and make a new confederacy with Gods knowne enemies, the world, the fleſh and the diuell. They ſhame not to boaſt and brag of this their new league.
+<note place="margin">
+                  <hi>Eſay</hi> 28.15.</note> 
+               <hi>We haue made a Couenant with death, and with Hell we are at an agreement.</hi>
+            </p>
+            <pb n="48" facs="tcp:17660:26"/>
+            <p> But let euery man that by vertue of the Couenant calls God his God, deteſt all by po<g ref="char:EOLhyphen"/>criſie, abhor all treachery; and remember that his happineſſe depends not vpon the entring into a Couenant with God, but vpon the true keeping of the Couenant. And for the more effectuall ſtirring vp of euery man here pre<g ref="char:EOLhyphen"/>ſent to repentance and newnes of life, accor<g ref="char:EOLhyphen"/>ding to the tenor of the Couenant, I wil adde this one thing. That whatſoeuer our carriage hitherto hath been, this very Couenant may aſſure vs, that <hi>Our God,</hi> and <hi>Our Father,</hi> neither will nor can refuſe gratiouſly to accept vs into fauour, vpon our ſubmiſſion and amendment. He is ingaged by ſpeciall promiſe.
+<note place="margin">2 <hi>Chron.</hi> 7.14.</note> 
+               <hi>If my peo<g ref="char:EOLhyphen"/>ple, among whom my name is called vpon, doe hum<g ref="char:EOLhyphen"/>ble themſelues and turne from their wicked waies, then will I heare in heauen, and be mercifull to their ſinne,</hi>
+               <note place="margin">Auguſt.</note> 
+               <hi>and heale their land. Promiſſa haec tua ſunt, &amp; quis falli timeat cum promittu ipſa Veritas?</hi> Theſe are thy promiſes, O Lord, and who needs doubt the performance, where Truth it ſelfe makes the Promiſe? But if any man ſhould doubt whether this Promiſe be ſtrong enough to binde God, to accept the ſubmiſ<g ref="char:EOLhyphen"/>ſion of a rebellious ſeruant; yet there is no
+<pb n="49" facs="tcp:17660:26"/>doubt, but his tender fatherly affection is ſtrong enough, to make him accept the ſub<g ref="char:EOLhyphen"/>miſſion of a Repenting Childe.
+<note place="margin">
+                  <hi>Ier.</hi> 3.14.</note> 
+               <hi>Ephraim is my deare ſonne, therefore my bowels are troubled for him; and I will ſurely haue compaſsion vpon him, ſaith the Lord.</hi> Let vs therefore now at laſt come vnto our God, with humble, lowly, and penitent hearts, and then wee ſhall ſpeede no worſe then the Prodigall childe did: That is, our louing Father will haue compaſſion vpon vs, <hi>hee will run and fall vpon our neckes,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 15.20.</note> 
+               <hi>hee will kiſſe vs, and put the beſt Robe, euen the rich Robe of his wel-beloued Sonnes righteouſnes vpon vs.</hi>
+            </p>
+            <p>There remaines the other title of Redemp<g ref="char:EOLhyphen"/>tion to be briefly touched, in regard whereof the Iſraelites terme God, their God, and on the other ſide God alſo termeth them his pe<g ref="char:EOLhyphen"/>culiar people: And this Redemption was two<g ref="char:EOLhyphen"/>fold: God was called their <hi>Strong Redeemer,</hi> and they were ſtiled <hi>the people whom God had Redeemed,</hi> in regard of that famous and mira<g ref="char:EOLhyphen"/>culous deliuerance out of the Egyptian thral<g ref="char:EOLhyphen"/>dome. God eſteemed this Temporall and Corporall redemption ſo great a benefit, and ſo forcible an inducement to Obedience, that hee thought it fit to bee ingrauen in the fore<g ref="char:EOLhyphen"/>front
+<pb n="50" facs="tcp:17660:27"/>of his ten Commandements. Yet this is not it which I purpoſe now to inſiſt vpon. There is therefore another Redemption wrought by the bloudy Paſſion of the Meſſias; obſcurely repreſented in the Leuiticall Sacri<g ref="char:EOLhyphen"/>fices, more plainly deſcribed by the Prophets, but moſt euidently painted out vnto vs by the holy Apoſtles. This is our Spirituall and eter<g ref="char:EOLhyphen"/>nall Redemption, whereby we are redeemed out of the lawes of the diuell, from eternall Death and Damnation of body and ſoule, which otherwiſe, we muſt haue vndergone, &amp; indured world without end. Now albeit the Generall Power of this redemption extend it ſelfe vnto the whole world; yet the Declarati<g ref="char:EOLhyphen"/>on &amp; Application thereof belongs in ſpeciall manner vnto the Church, &amp; therefore it is the Church which out of this reſpect, calls God, her God; and it is likewiſe the Church, which for this cauſe God owns as his peculiar peo<g ref="char:EOLhyphen"/>ple. This is the Redemption whereof euery member of the church ought with holy <hi>Iob,</hi> to take ſpeciall notice. <hi>Scio quod Redemptor meus viuit.</hi>
+               <note place="margin">
+                  <hi>Iob</hi> 19.</note> 
+               <hi>I know that my Redeemer liueth.</hi> And not onely ſo: but I know that this my Redeemer hath ranſomed both my body and ſoule, not
+<pb n="51" facs="tcp:17660:27"/>with gold or ſiluer, but with his owne pre<g ref="char:EOLhyphen"/>cious bloud;
+<note place="margin">1 <hi>Cor.</hi> 6.20.</note> 
+               <hi>to the end that being thus Bought with a price, I may glorifie him both in body and ſoule.</hi> If all which hath beene former<g ref="char:EOLhyphen"/>ly vrged, cannot perſwade men to returne to the obedience and ſeruice of God, yet this Motiue, that he is <hi>Our God,</hi> and that by Right of Redemption ſhould inforce vs thereunto. Our Creation out of nothing was an infinite benefit, and ties vs ſtraitly to God our Crea<g ref="char:EOLhyphen"/>tor. But this our Redemption at ſuch an ine<g ref="char:EOLhyphen"/>ſtimable price, when we were worſe then no<g ref="char:EOLhyphen"/>thing, is infinitely greater then that other in<g ref="char:EOLhyphen"/>finite benefit, and ties vs in a more ſtrait band vnto God our Redeemer. Our Creation coſt God no more but the word ſpeaking, <hi>Dixit &amp; factum eſt, hee ſaid it, and hee did it:</hi> but our re<g ref="char:EOLhyphen"/>demption was not ſo eaſily wrought; <hi>Multa tulit fecitque Deus, ſudauit &amp; alſit.</hi> What man ſo thankleſſe that would not for euer acknow<g ref="char:EOLhyphen"/>ledge him for his good Lord and Pa<g ref="char:EOLhyphen"/>tron, and ſtriue to doe him all acceptable ſeruice, who had but redeemed him from the Turkiſh ſlauery, and rowing chained in their gallyes. How much more then ſtand we obli<g ref="char:EOLhyphen"/>ged in all duty and ſeruice vnto our God,
+<pb n="52" facs="tcp:17660:28"/>who hath redeemed vs from beeing the ſlaues of Sathan, from the chaines of darke<g ref="char:EOLhyphen"/>neſſe, and euerlaſting damnation. They haue no ſenſe of this Redemption, nor no part as yet in it, who are not inflamed thereby <hi>to ſerue God in holineſſe and righteouſneſſe,</hi>
+               <note place="margin">
+                  <hi>Tit.</hi> 2.14.</note> 
+               <hi>and to become a peculiar people vnto him, zealous of good workes.</hi> But alas, where ſhall God our Redee<g ref="char:EOLhyphen"/>mer finde ſuch zealous ſeruants, amongſt mil<g ref="char:EOLhyphen"/>lions of men that confeſſe and profeſſe them<g ref="char:EOLhyphen"/>ſelues to be redeemed with his blood? The World and the Fleſh haue a world of Ser<g ref="char:EOLhyphen"/>uants at command; nay the diuell himſelfe is ſo well attended, that Saint <hi>Cyprian</hi> brings him in, thus bragging againſt our Sauiour Chriſt, and inſulting ouer vs ſilly and ſinfull wretches.
+<note place="margin">Serm. de Eleemoſyna.</note> 
+               <hi>Ego pro iſtis necſanguinem fudi, &amp;c.</hi> I haue ſpilt no one drop of bloud for any of theſe, I haue taken no paines to doe them any good; nay all my ſtudy and paines euer was, and euer ſhall be, to bring them to death, and eternall damnation. Notwithſtanding all this;
+<note place="margin">Ibid.</note> 
+               <hi>Tuos tales demonſtra mihi Chriſte,</hi> O Chriſt, (if thou canſt) ſhew me ſo many, ſo buſy, ſo painefull, ſo dutifull ſeruants of thine, as I am able to ſhew vnto thee euery where of mine.
+<pb n="53" facs="tcp:17660:28"/>O what a ſhame is it vnto vs all that beare the name of Chriſtians, <hi>Hec dici potuiſſe, &amp; non po<g ref="char:EOLhyphen"/>tuiſſe refelli:</hi> That ſuch things may truely bee obiected againſt vs by the diuell, and cannot truely be denied, or confuted by vs.</p>
+            <p>O what a griefe is it vnto our Lord Chriſt, that a curſed Murtherer ſhould be able to en<g ref="char:EOLhyphen"/>tiſe away ſo many ſeruants, from a bleſſed Redeemer? This point ſhould rather be pro<g ref="char:EOLhyphen"/>ſecuted with teares, then words; nothing now remaines, but that euery man heere pre<g ref="char:EOLhyphen"/>ſent, ſearch into his owne heart and life, in<g ref="char:EOLhyphen"/>quire and finde out his owne proper ſinnes, turne ſpeedily from his wicked waies; and that all of vs ſay with a ioynt and conſtant reſolu<g ref="char:EOLhyphen"/>tion as theſe Iſraelites did: <hi>Behold, wee come vnto thee, for thou art the Lord, our God.</hi>
+            </p>
+            <p>THat Almighty God who hath this day cal<g ref="char:EOLhyphen"/>led vs vnto him by his word, draw vs vnto him by the effectuall operation of his holy Spirit; that ſo renouncing the ſeruice of the World, the Fleſh, and the Diuell, and retur<g ref="char:EOLhyphen"/>ning vnto the Seruice of our true Lord; wee may recouer his fauour here, and enioy his
+<pb n="54" facs="tcp:17660:29"/>euerlaſting fauour hereafter. Grant this moſt mercifull Father, for the infinite merits of thy wel-beloued Sonne, to whom with thee and the Holy Ghoſt, be aſcribed all Praiſe, Power, Maieſty, and Do<g ref="char:EOLhyphen"/>minion, this day and for euer <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:17660:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
